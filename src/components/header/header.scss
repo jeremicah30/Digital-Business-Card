@@ -1,0 +1,35 @@
+.header {
+  text-align: center;
+  width: 250px;
+  background: #1a1b21;
+
+  .profile-img {
+    overflow: hidden;
+    height: 250px;
+    position: center center;
+    img {
+      width: 250px;
+      border: none;
+      border-radius: 8px 8px 0 0;
+    }
+  }
+
+  h1 {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 25px;
+  }
+
+  h4 {
+    color: #f3bf99;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 8px;
+  }
+}
